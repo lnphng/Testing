@@ -1,13 +1,6 @@
-Version: 1.0
 
-RestoreWorkspace: Default
-SaveWorkspace: Default
-AlwaysSaveHistory: Default
+a<- matrix(1:4,2,2)
 
-EnableCodeIndexing: Yes
-UseSpacesForTab: Yes
-NumSpacesForTab: 2
-Encoding: UTF-8
-
-RnwWeave: Sweave
-LaTeX: pdfLaTeX
+x <-1
+print(" This file was creadted within RStudio")
+print(" And now it lives on Github")
